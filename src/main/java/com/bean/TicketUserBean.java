@@ -12,7 +12,7 @@ public class TicketUserBean {
 	public String getFirstName() {
 		return firstName;
 	}
-	public void setFirstName(String firstName) {f
+	public void setFirstName(String firstName) {
 		this.firstName = firstName;
 	}
 	public String getMnum() {
